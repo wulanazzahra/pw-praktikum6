@@ -1,0 +1,36 @@
+h2 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.table-bordered {
+  border: 1px solid black !important;
+}
+
+table caption {
+  padding: 0.5em 0;
+}
+
+@media screen and (max-width: 767px) {
+  table caption {
+    display: none;
+  }
+}
+
+.p {
+  text-align: center;
+  padding-top: 140px;
+  font-size: 14px;
+}
+
+h6 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  background-color: #ee8faa;
+}
